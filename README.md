@@ -50,10 +50,4 @@ npm run preview
 | `src/main.jsx` | React root, Redux Provider, and router |
 | `public/images/` | Local SVG plant thumbnails and landing illustration |
 
-## Coursera submission
 
-Publish this project to a **public GitHub repository**. Submit the individual GitHub URLs for these seven files: `README.md`, `src/AboutUs.jsx`, `src/App.css`, `src/App.jsx`, `src/CartSlice.jsx`, `src/ProductList.jsx`, and `src/CartItem.jsx`.
-
-Example: `https://github.com/YOUR_USERNAME/paradise-nursery/blob/main/src/CartItem.jsx`
-
-**Project name:** Paradise Nursery Shopping Application
